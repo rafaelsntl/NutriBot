@@ -1,13 +1,12 @@
-# Importa o cliente de inferência da Hugging Face
 from huggingface_hub import InferenceClient
 
-# Inicializa o cliente com o modelo LLaMA 3 8B Instruct via API
+#Inicializa o cliente com o modelo LLaMA 3 8B Instruct via API
 client = InferenceClient(
     model="meta-llama/Meta-Llama-3-8B-Instruct",
-    token="SeuToken"  # Substitua aqui pelo seu token real
+    token="SeuToken"  #Substitua pelo seu token  
 )
 
-# Função para carregar os alimentos disponíveis de um arquivo
+#Função para carregar os alimentos disponíveis do arquivo alimentos.txt
 def carregar_alimentos():
     try:
         with open("alimentos.txt", "r", encoding="utf-8") as f:
