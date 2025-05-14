@@ -19,4 +19,6 @@
 
 ## Exemplo de utilização:
 Você: Sou vegano e quero ganhar massa
+
 *O NutriBot retorna um cardápio completo usando os alimentos fornecidos.*
+
