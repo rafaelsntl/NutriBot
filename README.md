@@ -1,6 +1,6 @@
 # NutriBot – Assistente Nutricional para Veganos
 
-**NutriBot** é um assistente virtual de nutrição que gera planos alimentares completos (café da manhã, almoço, lanche da tarde e jantar) para pessoas veganas com base nos alimentos disponíveis. O chatbot utiliza o modelo **Meta-LLaMA 3 8B Instruct** da Hugging Face via API para oferecer sugestões personalizadas de forma leve e eficiente. 
+**NutriBot** é um assistente virtual de nutrição que gera planos alimentares completos (café da manhã, almoço, lanche da tarde e jantar) para pessoas veganas com base nos alimentos disponíveis. O chatbot utiliza o modelo **Meta-LLaMA 3 8B Instruct** da **Hugging Face** via API para oferecer sugestões personalizadas de forma leve e eficiente. 
 
 ## Funcionalidades:
 
