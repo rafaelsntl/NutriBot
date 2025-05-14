@@ -10,7 +10,7 @@ NutriBot é um assistente nutricional virtual que gera planos alimentares para p
 
 3. Execute:  `python nutribot.py`
 
-## Exemplo:
+## Exemplo de utilização:
 Você: Sou vegano e quero ganhar massa
 
-O NutriBot retorna um cardápio completo usando os alimentos fornecidos.
+*O NutriBot retorna um cardápio completo usando os alimentos fornecidos.*
