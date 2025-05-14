@@ -1,0 +1,32 @@
+banana, maçã, pera, laranja, melancia, abacaxi, mamão, morango, mirtilo, framboesa,
+uva, ameixa, manga, kiwi, caqui, figo, melão, pêssego, goiaba, acerola, açaí,
+
+alface, rúcula, espinafre, couve, agrião, acelga, repolho, chicória, escarola,
+brócolis, couve-flor, vagem, ervilha-torta, quiabo, jiló, berinjela, abobrinha, cenoura,
+beterraba, pepino, tomate, pimentão, cebola, alho, alho-poró, cebolinha, salsinha,
+
+batata-doce, batata inglesa, mandioca (aipim/macaxeira), inhame, cará, mandioquinha,
+
+arroz integral, arroz branco, quinoa, amaranto, trigo sarraceno, milho, canjica, cuscuz,
+aveia, cevada, centeio, farinha de milho, farinha de mandioca, polenta, painço,
+
+feijão preto, feijão carioca, feijão vermelho, feijão branco, lentilha, grão-de-bico,
+ervilha seca, soja, edamame, tofu, tempeh, leite de soja,
+
+castanha-do-pará, castanha de caju, amendoim, amêndoa, noz, noz-pecã, pistache,
+avelã, semente de girassol, semente de abóbora, semente de linhaça, chia, gergelim,
+
+óleo de coco, azeite de oliva, óleo de girassol, tahine (pasta de gergelim),
+manteiga de amendoim, pasta de castanha, leite de aveia, leite de amêndoas,
+leite de coco, iogurte vegetal, creme de soja, creme de aveia,
+
+pão integral, pão de fermentação natural (sem leite), tapioca, granola sem mel,
+biscoitos veganos, bolos veganos, chocolate amargo (acima de 70% cacau),
+
+levedura nutricional, missô, shoyu, vinagre de maçã, limão, cúrcuma, páprica,
+pimenta-do-reino, curry, gengibre, noz-moscada, canela,
+
+água, chá verde, chá de hibisco, chá de camomila, café (sem leite), água de coco,
+
+proteína de soja texturizada (PVT), hambúrguer vegetal, almôndega vegetal,
+leite vegetal fortificado com B12, suplementos de B12, spirulina, maca peruana.
