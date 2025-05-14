@@ -4,7 +4,7 @@ NutriBot é um assistente nutricional virtual que gera planos alimentares para p
 
 ## Como usar:
 
-1. Instale as dependências:   `pip install -r requirements.txt`
+1. Instale as dependências:  `pip install -r requirements.txt`
 
 2.  Crie o arquivo `alimentos.txt` com os alimentos disponíveis (separados por vírgula)
 
